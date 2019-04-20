@@ -41,3 +41,6 @@ vcpkg/
 
 .idea/*
 *cbp
+
+#VSCode
+.vscode
